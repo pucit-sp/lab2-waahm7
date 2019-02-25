@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/myexe.dir/src/driver.c.o  -o myexe  -L/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/lib -Wl,-rpath,/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/lib -lc -lmyfunctions 

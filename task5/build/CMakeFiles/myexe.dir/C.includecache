@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/src/driver.c
+stdio.h
+-
+header.h
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/src/header.h
+
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/src/header.h
+

@@ -1,0 +1,10 @@
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/install/local.dir
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/list_install_components.dir
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/edit_cache.dir
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/rebuild_cache.dir
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/package_source.dir
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/myexe.dir
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/package.dir
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/install/strip.dir
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/install.dir
+/Users/waqar/Dropbox/systemProgramming/lab2/Problem5/build/CMakeFiles/uninstall.dir
